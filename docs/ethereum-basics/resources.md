@@ -18,6 +18,7 @@ description: A list of essential Ethereum resources.
 * [Cryptocurrency Explained](https://www.upfolio.com/ultimate-cryptocurrency-guide)
 * [How A Blockchain Works \(6 min video\)](https://www.youtube.com/watch?v=SSo_EIwHSd4)
 * [Blockchain for Babies](https://medium.com/connext/blockchains-for-babies-14e3b0bf3c36)
+* [Ethereum 101 Course](https://www.cadena.dev/)
 
 ### Further Education
 
